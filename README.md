@@ -39,6 +39,7 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
+<img width="1371" height="602" alt="Screenshot from 2026-10-22 16-16-12" src="https://github.com/user-attachments/assets/aaa85400-d95c-46c6-8075-bf51538e0547" />
 
 
 
